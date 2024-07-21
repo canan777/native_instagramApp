@@ -21,9 +21,10 @@ The project uses modern mobile application development technologies:
 📌 React Native: Forms the foundation of the mobile application, enabling cross-platform development (iOS and Android).
 📌 React Navigation: Manages screen transitions and navigation within the application.
 
-## Libraries:
-react-native-linear-gradient
-https://www.figma.com/design/R1nWjKlB6mdpDrvDa0lPXi/Instagram-UI-Kit-(Community)?node-id=279-583&t=Z3WL3SUPp4KK7qOK-0
+## 📚 Libraries:
+
+✴️react-native-linear-gradient
+✴️https://www.figma.com/design/R1nWjKlB6mdpDrvDa0lPXi/Instagram-UI-Kit-(Community)?node-id=279-583&t=Z3WL3SUPp4KK7qOK-0
 
 ## 💻 User Experience:
 
